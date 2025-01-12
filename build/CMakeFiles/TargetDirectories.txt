@@ -1,0 +1,3 @@
+/home/devborges/CLionProjects/FURGfs/build/CMakeFiles/main.dir
+/home/devborges/CLionProjects/FURGfs/build/CMakeFiles/edit_cache.dir
+/home/devborges/CLionProjects/FURGfs/build/CMakeFiles/rebuild_cache.dir

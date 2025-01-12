@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="units-converter">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="base32-encoder-decoder" id="2b195976-ba61-4e05-ad11-a05508852058" name="Workbench">
+        <properties>
+          <property key="sourceText" type="INPUT" value="kotlin.String|a" />
+          <property key="targetText" type="INPUT" value="kotlin.String|ME======" />
+        </properties>
+      </developerToolConfiguration>
+      <developerToolConfiguration developerToolId="units-converter" id="9cb08b61-24db-4183-a95c-48407609264c" name="Workbench">
+        <properties>
+          <property key="lastSelectedUnitConverterIndex" type="CONFIGURATION" value="kotlin.Int|3" />
+          <property key="dataSizeConverter_bitDataSizeValue" type="INPUT" value="java.math.BigDecimal|40" />
+          <property key="baseConverter_baseTwoInput" type="INPUT" value="kotlin.String|1000000000000" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>

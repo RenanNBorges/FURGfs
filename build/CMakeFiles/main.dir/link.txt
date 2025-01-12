@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/core/fs_core.c.o CMakeFiles/main.dir/src/core/fs_fat.c.o CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/operations/fs_dir.c.o CMakeFiles/main.dir/src/operations/fs_files.c.o -o main
