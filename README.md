@@ -1,6 +1,6 @@
 # Sistema de Arquivos FURG
 
-Este projeto implementa um sistema de arquivos simples em C, com funcionalidades básicas como criação, exclusão e manipulação de arquivos e diretórios.
+Este projeto implementa um sistema de arquivos simples em C, com funcionalidades básicas como criação, exclusão e manipulação de arquivos e diretórios baseado no sistema FAT.
 
 ## Estrutura do Projeto
 
@@ -54,13 +54,5 @@ Para compilar o projeto, siga os passos abaixo:
 Após a compilação, o executável gerado pode ser utilizado para interagir com o sistema de arquivos. Execute o programa e siga as instruções do menu para realizar as operações desejadas.
 
 ```sh
-./sistema_de_arquivos
+./main
 ```
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
